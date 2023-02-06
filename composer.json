@@ -1,6 +1,6 @@
 {
     "name": "slim/slim-skeleton",
-    "description": "A Slim Framework skeleton application for rapid development",
+    "description": "Slim Framework",
     "keywords": [
         "microframework",
         "rest",
